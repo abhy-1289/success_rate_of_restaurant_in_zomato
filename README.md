@@ -7,3 +7,5 @@ In this project I have performed:
                        creating a target variable,
 and  data visualization: visualising the results for an operation performed on data, and
   Prediction: Predicting whether a restaurant in Zomato will be successful or not.
+  
+  Link for the dataset is given in the python file as a comment.
