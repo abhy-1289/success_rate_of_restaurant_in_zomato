@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+
+# Link for the dataset - https://drive.google.com/file/d/1EeexPbuMHiiZJ9Z7qeSSt2732a1Yu546/view?usp=sharing
+
+
 # In[1]:
 
 
@@ -788,64 +792,5 @@ for name, model in models:
     from sklearn.metrics import accuracy_score
     print(accuracy_score(predictions,y_test))
     print('\n')
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
 
 
